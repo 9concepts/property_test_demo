@@ -1,0 +1,15 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest run"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "fast-check": "^3.9.0",
+    "vitest": "^0.31.1"
+  }
+}
